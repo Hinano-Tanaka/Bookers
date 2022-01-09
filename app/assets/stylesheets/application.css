@@ -13,3 +13,34 @@
  *= require_tree .
  *= require_self
  */
+body {
+    margin: 33px;
+    font-family: verdana, arial, helvetica, sans-serif;
+    color: #333;
+    font-size: 13px;
+
+}
+
+h1 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 19.5px;
+}
+
+.flash {
+  color: green;
+}
+
+p {
+    margin: 33px;
+}
+
+.botton {
+    margin: 10px 0px;
+}
+
+.error_message {
+    color: red;
+}
